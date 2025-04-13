@@ -1,0 +1,347 @@
+[2025-04-12 18:21:12,061] [DEBUG] [Anti] task_data: {'taskId': '86179291-8bc2-4482-b9ff-76e646b1247c', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-12 18:21:12,061] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-12 18:21:12,061] [DEBUG] [Anti] headless: False
+[2025-04-12 18:21:12,061] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x108105e90>
+[2025-04-12 18:21:12,061] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-12 18:22:51,977] [DEBUG] [Anti] task_data: {'taskId': '1284aeb1-c7fe-4da4-a754-8a39db71d0ab', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-12 18:22:51,977] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-12 18:22:51,977] [DEBUG] [Anti] headless: False
+[2025-04-12 18:22:51,977] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x11a534490>
+[2025-04-12 18:22:51,978] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-12 18:23:27,837] [DEBUG] [Anti] task_data: {'taskId': 'adc46e5e-d5fd-4839-a62e-7e9505dd870f', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-12 18:23:27,837] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-12 18:23:27,837] [DEBUG] [Anti] headless: False
+[2025-04-12 18:23:27,837] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1065d0a90>
+[2025-04-12 18:23:27,837] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-12 18:24:12,954] [DEBUG] [Anti] task_data: {'taskId': 'febeecdb-ac1d-4348-8031-a0097d896a75', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-12 18:24:12,954] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-12 18:24:12,954] [DEBUG] [Anti] headless: False
+[2025-04-12 18:24:12,955] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1074dcb90>
+[2025-04-12 18:24:12,955] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-12 18:25:18,046] [DEBUG] [Anti] task_data: {'taskId': 'e40ef609-514d-482e-bad1-06cdf336294a', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-12 18:25:18,047] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-12 18:25:18,047] [DEBUG] [Anti] headless: False
+[2025-04-12 18:25:18,047] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x104fa9c50>
+[2025-04-12 18:25:18,047] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-12 18:25:28,665] [DEBUG] [Anti] 🧠 内存占用: 150.52 MB
+[2025-04-12 18:25:28,670] [DEBUG] [Anti] 对象数量追踪: 82759
+[2025-04-12 18:27:39,679] [DEBUG] [Anti] task_data: {'taskId': '00deea6a-08f3-4fdd-a1ae-8e155843bb26', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-12 18:27:39,679] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-12 18:27:39,679] [DEBUG] [Anti] headless: False
+[2025-04-12 18:27:39,679] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1055cac50>
+[2025-04-12 18:27:39,679] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-12 18:28:04,066] [DEBUG] [Anti] task_data: {'taskId': '12938a7b-2e18-47ed-9cbd-c93c7630f9ea', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-12 18:28:04,066] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-12 18:28:04,066] [DEBUG] [Anti] headless: False
+[2025-04-12 18:28:04,066] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x104558a90>
+[2025-04-12 18:28:04,067] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-12 18:28:04,067] [DEBUG] [Anti] Proxy: {'server': None, 'username': None, 'password': None}
+[2025-04-12 18:28:48,921] [DEBUG] [Anti] task_data: {'taskId': 'a91efa13-e80b-428b-a110-a96b2053dd98', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-12 18:28:48,921] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-12 18:28:48,921] [DEBUG] [Anti] headless: False
+[2025-04-12 18:28:48,922] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1131d8ad0>
+[2025-04-12 18:28:48,922] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-12 18:29:38,298] [DEBUG] [Anti] task_data: {'taskId': '63e2ed9e-1d62-4027-b176-4789dc94bf67', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-12 18:29:38,298] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-12 18:29:38,299] [DEBUG] [Anti] headless: False
+[2025-04-12 18:29:38,299] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x105130350>
+[2025-04-12 18:29:38,299] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-12 18:29:38,299] [DEBUG] [Anti] Proxy: {'server': 'http://pr-sg.ip2world.com:6001', 'username': 'capsolver-zone-resi-region-hk', 'password': '123456'}
+[2025-04-12 18:29:48,243] [DEBUG] [Anti] 🧠 内存占用: 145.77 MB
+[2025-04-12 18:29:48,244] [DEBUG] [Anti] 对象数量追踪: 82519
+[2025-04-12 18:31:19,089] [DEBUG] [Anti] task_data: {'taskId': '40bb7f86-9a37-4c24-b1ee-8a6c1d720a7a', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-12 18:31:19,089] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-12 18:31:19,089] [DEBUG] [Anti] headless: True
+[2025-04-12 18:31:19,089] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x102ca4c50>
+[2025-04-12 18:31:19,089] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-12 18:31:19,089] [DEBUG] [Anti] Proxy: {'server': 'http://pr-sg.ip2world.com:6001', 'username': 'capsolver-zone-resi-region-hk', 'password': '123456'}
+[2025-04-12 18:31:58,103] [ERROR] [Anti] Failed to retrieve Turnstile value.
+[2025-04-12 18:31:58,418] [DEBUG] [Anti] 🧠 内存占用: 168.36 MB
+[2025-04-12 18:31:58,420] [DEBUG] [Anti] 对象数量追踪: 98704
+[2025-04-12 18:33:59,052] [DEBUG] [Anti] task_data: {'taskId': 'ac871682-ccf7-4c29-b31b-d2f58f9ea749', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-12 18:33:59,052] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-12 18:33:59,052] [DEBUG] [Anti] headless: True
+[2025-04-12 18:33:59,053] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x101726190>
+[2025-04-12 18:33:59,053] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-12 18:33:59,053] [DEBUG] [Anti] Proxy: {'server': 'http://pr-sg.ip2world.com:6001', 'username': 'capsolver-zone-resi-region-hk', 'password': '123456'}
+[2025-04-12 18:34:09,050] [INFO] [Anti] Solved Turnstile in 10.0s -> 0.Nn1t3c8X...
+[2025-04-12 18:34:09,421] [DEBUG] [Anti] 🧠 内存占用: 168.36 MB
+[2025-04-12 18:34:09,423] [DEBUG] [Anti] 对象数量追踪: 99051
+[2025-04-12 18:36:07,869] [DEBUG] [Anti] task_data: {'taskId': '3a6bd43a-20d3-4860-853e-94059666ea30', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-12 18:36:07,870] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-12 18:36:07,870] [DEBUG] [Anti] headless: True
+[2025-04-12 18:36:07,870] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x106d50550>
+[2025-04-12 18:36:07,870] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-12 18:36:07,870] [DEBUG] [Anti] Proxy: {'server': 'http://pr-sg.ip2world.com:6001', 'username': 'capsolver-zone-resi-region-hk', 'password': '123456'}
+[2025-04-12 18:36:21,961] [INFO] [Anti] Solved Turnstile in 14.09s -> 0.z8SabV8v...
+[2025-04-12 18:36:22,285] [DEBUG] [Anti] 🧠 内存占用: 168.08 MB
+[2025-04-12 18:36:22,288] [DEBUG] [Anti] 对象数量追踪: 99324
+[2025-04-12 18:39:08,409] [DEBUG] [Anti] task_data: {'taskId': '29cae8de-373a-4662-abe8-99651db8ea5c', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-12 18:39:08,409] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-12 18:39:08,409] [DEBUG] [Anti] headless: True
+[2025-04-12 18:39:08,409] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1193a9fd0>
+[2025-04-12 18:39:08,409] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-12 18:39:08,409] [DEBUG] [Anti] Proxy: {'server': 'http://pr-sg.ip2world.com:6001', 'username': 'capsolver-zone-resi-region-hk', 'password': '123456'}
+[2025-04-12 18:39:18,319] [INFO] [Anti] Solved Turnstile in 9.91s -> 0.kXAxmTuW...
+[2025-04-12 18:39:18,651] [DEBUG] [Anti] 🧠 内存占用: 165.44 MB
+[2025-04-12 18:39:18,653] [DEBUG] [Anti] 对象数量追踪: 99084
+[2025-04-12 18:41:26,253] [INFO] [Anti] ✅ Solved Turnstile in 9.69s -> 0.3rZLr9XJ...
+[2025-04-12 18:53:45,193] [INFO] [Anti] ✅ Solved Turnstile in 10.21s -> 0.xaOQUp6U...
+[2025-04-13 14:36:11,393] [DEBUG] [Anti] task_data: {'taskId': '5522c39f-1dd9-4e38-a9c2-ac198c7bd380', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 14:36:11,393] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 14:36:11,393] [DEBUG] [Anti] headless: False
+[2025-04-13 14:36:11,393] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x102681ad0>
+[2025-04-13 14:36:11,393] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 14:36:11,393] [DEBUG] [Anti] Proxy: {'server': 'http://104.252.149.241:5655', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'}
+[2025-04-13 14:36:44,526] [DEBUG] [Anti] 🧠 内存占用: 144.41 MB
+[2025-04-13 14:36:44,528] [DEBUG] [Anti] 对象数量追踪: 82246
+[2025-04-13 14:37:17,298] [DEBUG] [Anti] task_data: {'taskId': 'a71f0417-4fd1-433e-aa1d-9ed211f4c8ba', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 14:37:17,298] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 14:37:17,298] [DEBUG] [Anti] headless: False
+[2025-04-13 14:37:17,298] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x106bfdd50>
+[2025-04-13 14:37:17,298] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 14:37:17,298] [DEBUG] [Anti] Proxy: {'server': 'http://45.38.111.87:6002', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 14:37:49,674] [DEBUG] [Anti] 🧠 内存占用: 145.50 MB
+[2025-04-13 14:37:49,676] [DEBUG] [Anti] 对象数量追踪: 82244
+[2025-04-13 14:48:31,406] [DEBUG] [Anti] task_data: {'taskId': 'b40876f5-6869-40f7-b75b-7638a8c44a6a', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 14:48:31,406] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 14:48:31,406] [DEBUG] [Anti] headless: False
+[2025-04-13 14:48:31,406] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x104d0b8d0>
+[2025-04-13 14:48:31,407] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 14:48:31,407] [DEBUG] [Anti] Proxy: {'server': 'http://45.38.111.87:6002', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 14:49:04,444] [DEBUG] [Anti] 🧠 内存占用: 146.61 MB
+[2025-04-13 14:49:04,448] [DEBUG] [Anti] 对象数量追踪: 82244
+[2025-04-13 14:50:10,531] [DEBUG] [Anti] task_data: {'taskId': '2fa0518c-0b16-4069-892b-88991f0d66e2', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 14:50:10,531] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 14:50:10,531] [DEBUG] [Anti] headless: False
+[2025-04-13 14:50:10,531] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x105cf5790>
+[2025-04-13 14:50:10,531] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 14:50:10,531] [DEBUG] [Anti] Proxy: {'server': 'http://45.38.111.87:6002', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 14:51:05,968] [DEBUG] [Anti] task_data: {'taskId': 'fac52720-8d29-461d-aa5f-9a956c64cd79', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 14:51:05,969] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 14:51:05,969] [DEBUG] [Anti] headless: False
+[2025-04-13 14:51:05,969] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x10163e9d0>
+[2025-04-13 14:51:05,969] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 14:51:05,969] [DEBUG] [Anti] Proxy: {'server': 'http://45.38.111.87:6002', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 14:51:37,795] [DEBUG] [Anti] 🧠 内存占用: 142.95 MB
+[2025-04-13 14:51:37,797] [DEBUG] [Anti] 对象数量追踪: 82113
+[2025-04-13 14:51:49,328] [DEBUG] [Anti] task_data: {'taskId': '348b5ef6-badb-4361-9fbd-36c6db05e67f', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 14:51:49,329] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 14:51:49,329] [DEBUG] [Anti] headless: False
+[2025-04-13 14:51:49,329] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x10e0b1750>
+[2025-04-13 14:51:49,329] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 14:51:49,329] [DEBUG] [Anti] Proxy: {'server': 'socks5://45.38.111.87:6002', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 14:59:14,486] [DEBUG] [Anti] task_data: {'taskId': 'e8fbcd70-c426-4bd3-b459-34ec658d11af', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 14:59:14,486] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 14:59:14,486] [DEBUG] [Anti] headless: False
+[2025-04-13 14:59:14,486] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x13ba8d710>
+[2025-04-13 14:59:14,486] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 14:59:14,486] [DEBUG] [Anti] Proxy: {'server': 'http://45.38.111.87:6002', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 14:59:24,811] [INFO] [Anti] ✅ Solved Turnstile in 10.32s -> 0.5HC-0lZH...
+[2025-04-13 14:59:25,113] [DEBUG] [Anti] 🧠 内存占用: 140.09 MB
+[2025-04-13 14:59:25,116] [DEBUG] [Anti] 对象数量追踪: 82404
+[2025-04-13 15:15:49,094] [DEBUG] [Anti] task_data: {'taskId': '104d1c93-fcd5-40c8-88d3-e82019dc9b5e', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:15:49,095] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:15:49,095] [DEBUG] [Anti] headless: False
+[2025-04-13 15:15:49,095] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x10523db10>
+[2025-04-13 15:15:49,095] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:15:49,096] [DEBUG] [Anti] Proxy: {'server': 'http://104.252.149.206:5620', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:15:51,847] [DEBUG] [Anti] task_data: {'taskId': '52765124-8022-475d-beca-1235f2dc5842', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:15:51,848] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:15:51,848] [DEBUG] [Anti] headless: False
+[2025-04-13 15:15:51,848] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1279c2cd0>
+[2025-04-13 15:15:51,848] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:15:51,848] [DEBUG] [Anti] Proxy: {'server': 'http://93.118.38.177:6321', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:16:15,120] [DEBUG] [Anti] 🧠 内存占用: 145.11 MB
+[2025-04-13 15:16:15,123] [DEBUG] [Anti] 对象数量追踪: 83186
+[2025-04-13 15:16:17,128] [DEBUG] [Anti] 🧠 内存占用: 145.11 MB
+[2025-04-13 15:16:17,130] [DEBUG] [Anti] 对象数量追踪: 82130
+[2025-04-13 15:17:24,280] [DEBUG] [Anti] task_data: {'taskId': '04b916c4-4b4a-40dc-b8d5-fb51e026b10e', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:17:24,281] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:17:24,281] [DEBUG] [Anti] headless: True
+[2025-04-13 15:17:24,281] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x106812810>
+[2025-04-13 15:17:24,282] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:17:24,282] [DEBUG] [Anti] Proxy: {'server': 'http://89.42.8.245:5806', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:17:56,007] [DEBUG] [Anti] 🧠 内存占用: 161.22 MB
+[2025-04-13 15:17:56,009] [DEBUG] [Anti] 对象数量追踪: 98679
+[2025-04-13 15:18:34,414] [DEBUG] [Anti] task_data: {'taskId': '14da9dca-5f90-439f-b1fc-d943b4bad770', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:18:34,414] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:18:34,414] [DEBUG] [Anti] headless: True
+[2025-04-13 15:18:34,414] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x11335cc50>
+[2025-04-13 15:18:34,414] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:18:34,414] [DEBUG] [Anti] Proxy: {'server': 'http://104.253.155.81:5497', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:19:07,515] [DEBUG] [Anti] 🧠 内存占用: 167.53 MB
+[2025-04-13 15:19:07,517] [DEBUG] [Anti] 对象数量追踪: 98819
+[2025-04-13 15:20:32,652] [DEBUG] [Anti] task_data: {'taskId': 'd0d2b122-0f69-42ae-8fe7-88aea7bf9d2b', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:20:32,652] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:20:32,652] [DEBUG] [Anti] headless: False
+[2025-04-13 15:20:32,652] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1049d5b50>
+[2025-04-13 15:20:32,652] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:20:32,652] [DEBUG] [Anti] Proxy: {'server': 'http://104.253.155.122:5538', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:20:49,174] [DEBUG] [Anti] 🧠 内存占用: 146.31 MB
+[2025-04-13 15:20:49,177] [DEBUG] [Anti] 对象数量追踪: 82255
+[2025-04-13 15:23:39,292] [DEBUG] [Anti] task_data: {'taskId': '328d7804-b24f-43c6-b3a0-0ffee167bb8c', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:23:39,292] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:23:39,292] [DEBUG] [Anti] headless: False
+[2025-04-13 15:23:39,292] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x106e00350>
+[2025-04-13 15:23:39,292] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:23:39,293] [DEBUG] [Anti] Proxy: {'server': 'http://104.252.149.31:5445', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:24:11,923] [ERROR] [Anti] Failed to solve Turnstile: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://testnet.megaeth.com/", waiting until "load"
+
+[2025-04-13 15:24:12,283] [DEBUG] [Anti] 🧠 内存占用: 146.86 MB
+[2025-04-13 15:24:12,284] [DEBUG] [Anti] 对象数量追踪: 82248
+[2025-04-13 15:35:53,070] [DEBUG] [Anti] task_data: {'taskId': '9bbd2d8c-288f-43cd-8b8d-f61be2cfb6fb', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:35:53,070] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:35:53,070] [DEBUG] [Anti] headless: False
+[2025-04-13 15:35:53,070] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1038bd750>
+[2025-04-13 15:35:53,070] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:35:53,070] [DEBUG] [Anti] Proxy: {'server': 'http://104.253.155.215:5631', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:36:25,897] [ERROR] [Anti] ❌ Failed to solve Turnstile: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://testnet.megaeth.com/", waiting until "load"
+
+[2025-04-13 15:36:26,207] [DEBUG] [Anti] 🧠 内存占用: 147.30 MB
+[2025-04-13 15:36:26,208] [DEBUG] [Anti] 对象数量追踪: 82248
+[2025-04-13 15:41:48,534] [DEBUG] [Anti] task_data: {'taskId': 'b9866004-b4a2-4257-b1a6-2f8d165a7360', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:41:48,535] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:41:48,535] [DEBUG] [Anti] headless: False
+[2025-04-13 15:41:48,535] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x115de19d0>
+[2025-04-13 15:41:48,535] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:41:48,535] [DEBUG] [Anti] Proxy: {'server': 'http://45.38.111.220:6135', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:42:01,849] [INFO] [Anti] ✅ Solved Turnstile in 13.31s -> 0.lAi1wy1d...
+[2025-04-13 15:42:02,186] [DEBUG] [Anti] 🧠 内存占用: 147.30 MB
+[2025-04-13 15:42:02,189] [DEBUG] [Anti] 对象数量追踪: 82870
+[2025-04-13 15:42:07,199] [DEBUG] [Anti] task_data: {'taskId': 'ecf9f778-63e3-4fe1-be36-331c8fac2b99', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:42:07,199] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:42:07,199] [DEBUG] [Anti] headless: False
+[2025-04-13 15:42:07,199] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x110d39190>
+[2025-04-13 15:42:07,199] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:42:07,199] [DEBUG] [Anti] Proxy: {'server': 'http://104.253.155.27:5443', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:42:40,770] [ERROR] [Anti] ❌ Failed to solve Turnstile: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://testnet.megaeth.com/", waiting until "load"
+
+[2025-04-13 15:42:41,042] [DEBUG] [Anti] 🧠 内存占用: 147.30 MB
+[2025-04-13 15:42:41,044] [DEBUG] [Anti] 对象数量追踪: 82606
+[2025-04-13 15:45:32,855] [DEBUG] [Anti] task_data: {'taskId': 'c35b177f-f47f-4545-ad1f-feb6b012e1d6', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:45:32,855] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:45:32,855] [DEBUG] [Anti] headless: False
+[2025-04-13 15:45:32,856] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x11665df90>
+[2025-04-13 15:45:32,856] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:45:32,856] [DEBUG] [Anti] Proxy: {'server': 'http://93.118.38.246:6390', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:46:05,814] [ERROR] [Anti] ❌ Failed to solve Turnstile: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://testnet.megaeth.com/", waiting until "load"
+
+[2025-04-13 15:46:06,123] [DEBUG] [Anti] 🧠 内存占用: 147.30 MB
+[2025-04-13 15:46:06,124] [DEBUG] [Anti] 对象数量追踪: 83845
+[2025-04-13 15:50:50,339] [DEBUG] [Anti] task_data: {'taskId': 'e29b6fee-941e-4aee-a286-4233bc0f3416', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:50:50,339] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:50:50,339] [DEBUG] [Anti] headless: False
+[2025-04-13 15:50:50,339] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1033ac350>
+[2025-04-13 15:50:50,339] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:50:50,339] [DEBUG] [Anti] Proxy: {'server': 'http://89.43.32.240:6068', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:51:23,336] [ERROR] [Anti] ❌ Failed to solve Turnstile: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://testnet.megaeth.com/", waiting until "load"
+
+[2025-04-13 15:51:23,634] [DEBUG] [Anti] 🧠 内存占用: 147.02 MB
+[2025-04-13 15:51:23,636] [DEBUG] [Anti] 对象数量追踪: 82246
+[2025-04-13 15:53:17,287] [DEBUG] [Anti] task_data: {'taskId': 'cf6b148f-4614-41d5-99a8-f805b404ead8', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:53:17,288] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:53:17,288] [DEBUG] [Anti] headless: False
+[2025-04-13 15:53:17,288] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x104c57850>
+[2025-04-13 15:53:17,288] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:53:17,288] [DEBUG] [Anti] Proxy: {'server': 'http://89.42.8.166:5727', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:53:50,275] [ERROR] [Anti] ❌ Failed to solve Turnstile: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://testnet.megaeth.com/", waiting until "load"
+
+[2025-04-13 15:53:50,563] [DEBUG] [Anti] 🧠 内存占用: 147.02 MB
+[2025-04-13 15:53:50,564] [DEBUG] [Anti] 对象数量追踪: 82431
+[2025-04-13 15:57:53,497] [DEBUG] [Anti] task_data: {'taskId': '46912cd4-47da-4c2c-a1d8-c6373cdb26ec', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:57:53,498] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:57:53,498] [DEBUG] [Anti] headless: False
+[2025-04-13 15:57:53,499] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x10172b150>
+[2025-04-13 15:57:53,499] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:57:53,499] [DEBUG] [Anti] Proxy: {'server': 'http://104.253.155.8:5424', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:58:26,444] [ERROR] [Anti] ❌ Failed to solve Turnstile: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://testnet.megaeth.com/", waiting until "load"
+
+[2025-04-13 15:58:26,728] [DEBUG] [Anti] 🧠 内存占用: 147.02 MB
+[2025-04-13 15:58:26,729] [DEBUG] [Anti] 对象数量追踪: 83677
+[2025-04-13 15:59:01,327] [DEBUG] [Anti] task_data: {'taskId': '21aec08c-be81-49f1-a648-0a55d9063562', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 15:59:01,327] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 15:59:01,328] [DEBUG] [Anti] headless: False
+[2025-04-13 15:59:01,328] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x105768090>
+[2025-04-13 15:59:01,328] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 15:59:01,328] [DEBUG] [Anti] Proxy: {'server': 'http://89.43.32.216:6044', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 15:59:34,904] [ERROR] [Anti] ❌ Failed to solve Turnstile: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://testnet.megaeth.com/", waiting until "load"
+
+[2025-04-13 15:59:35,177] [DEBUG] [Anti] 🧠 内存占用: 147.02 MB
+[2025-04-13 15:59:35,178] [DEBUG] [Anti] 对象数量追踪: 84770
+[2025-04-13 16:02:06,146] [DEBUG] [Anti] task_data: {'taskId': '113beb4c-199c-48cb-9a5f-8cbd73b47784', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 16:02:06,146] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 16:02:06,146] [DEBUG] [Anti] headless: False
+[2025-04-13 16:02:06,146] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1068988d0>
+[2025-04-13 16:02:06,147] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 16:02:06,147] [DEBUG] [Anti] Proxy: {'server': 'http://94.176.106.197:6611', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 16:02:39,545] [ERROR] [Anti] ❌ Failed to solve Turnstile: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://testnet.megaeth.com/", waiting until "load"
+
+[2025-04-13 16:02:39,826] [DEBUG] [Anti] 🧠 内存占用: 144.92 MB
+[2025-04-13 16:02:39,827] [DEBUG] [Anti] 对象数量追踪: 82248
+[2025-04-13 16:07:01,930] [DEBUG] [Anti] task_data: {'taskId': '9025d047-e86c-414f-a2a6-3544a4e24e26', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 16:07:01,930] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 16:07:01,930] [DEBUG] [Anti] headless: False
+[2025-04-13 16:07:01,931] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x10306c350>
+[2025-04-13 16:07:01,931] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 16:07:01,931] [DEBUG] [Anti] Proxy: {'server': 'http://104.253.155.137:5553', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 16:07:34,072] [ERROR] [Anti] ❌ Failed to solve Turnstile: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://testnet.megaeth.com/", waiting until "load"
+
+[2025-04-13 16:07:34,386] [DEBUG] [Anti] 🧠 内存占用: 144.75 MB
+[2025-04-13 16:07:34,389] [DEBUG] [Anti] 对象数量追踪: 82248
+[2025-04-13 16:10:58,700] [DEBUG] [Anti] task_data: {'taskId': '4a99ea40-c565-47fc-87b9-ef66be7ca864', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 16:10:58,700] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 16:10:58,700] [DEBUG] [Anti] headless: False
+[2025-04-13 16:10:58,700] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1048a6290>
+[2025-04-13 16:10:58,701] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 16:10:58,701] [DEBUG] [Anti] Proxy: {'server': 'http://104.252.149.201:5615', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 16:11:10,255] [INFO] [Anti] ✅ Solved Turnstile in 11.55s -> 0.nkPl-2W1...
+[2025-04-13 16:11:10,579] [DEBUG] [Anti] 🧠 内存占用: 144.75 MB
+[2025-04-13 16:11:10,581] [DEBUG] [Anti] 对象数量追踪: 82731
+[2025-04-13 16:12:33,553] [DEBUG] [Anti] task_data: {'taskId': 'e7d48722-3b34-4ec1-b1a0-dc712eac0902', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 16:12:33,553] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 16:12:33,554] [DEBUG] [Anti] headless: False
+[2025-04-13 16:12:33,554] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1048af610>
+[2025-04-13 16:12:33,554] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 16:12:33,554] [DEBUG] [Anti] Proxy: {'server': 'http://45.38.111.53:5968', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 16:12:44,760] [INFO] [Anti] ✅ Solved Turnstile in 11.21s -> 0.4lYKQf_1...
+[2025-04-13 16:12:45,068] [DEBUG] [Anti] 🧠 内存占用: 144.75 MB
+[2025-04-13 16:12:45,069] [DEBUG] [Anti] 对象数量追踪: 83002
+[2025-04-13 16:14:04,728] [DEBUG] [Anti] task_data: {'taskId': '01a20566-af0a-4378-a9b8-15f5262ffed7', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 16:14:04,728] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 16:14:04,728] [DEBUG] [Anti] headless: True
+[2025-04-13 16:14:04,728] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x106e24c50>
+[2025-04-13 16:14:04,728] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 16:14:04,728] [DEBUG] [Anti] Proxy: {'server': 'http://104.253.155.224:5640', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 16:14:21,108] [INFO] [Anti] ✅ Solved Turnstile in 16.38s -> 0.kbI9dQDo...
+[2025-04-13 16:14:21,420] [DEBUG] [Anti] 🧠 内存占用: 159.64 MB
+[2025-04-13 16:14:21,422] [DEBUG] [Anti] 对象数量追踪: 99107
+[2025-04-13 16:14:57,456] [DEBUG] [Anti] task_data: {'taskId': '5b654ebb-a99f-4461-9afd-a94a22308576', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': '0x4AAAAAABA4JXCaw9E2Py-9', 'websiteURL': 'https://testnet.megaeth.com/', 'metadata': {'action': ''}}
+[2025-04-13 16:14:57,456] [DEBUG] [Anti] action: 0x4AAAAAABA4JXCaw9E2Py-9
+[2025-04-13 16:14:57,456] [DEBUG] [Anti] headless: True
+[2025-04-13 16:14:57,457] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x10e07ead0>
+[2025-04-13 16:14:57,457] [DEBUG] [Anti] Attempting to solve URL: https://testnet.megaeth.com/
+[2025-04-13 16:14:57,457] [DEBUG] [Anti] Proxy: {'server': 'http://94.176.106.143:6557', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-13 16:15:14,542] [INFO] [Anti] ✅ Solved Turnstile in 17.08s -> 0.VMiDZ05W...
+[2025-04-13 16:15:14,828] [DEBUG] [Anti] 🧠 内存占用: 159.64 MB
+[2025-04-13 16:15:14,830] [DEBUG] [Anti] 对象数量追踪: 99138

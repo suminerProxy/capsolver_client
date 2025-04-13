@@ -1,0 +1,13 @@
+concurrency: null
+
+camoufox:
+  api_key: "test"
+  solver_type:
+    - ImageToTextTask
+    - AntiTurnstileTaskProxyLess
+  headless: "true"
+
+worker:
+  name: "tmp"
+  wss_url: "wss://capsolver.yxschool.cc:8998/ws/worker/"
+

@@ -11,11 +11,4 @@ camoufox:
 
 worker:
   name: "test222"
-#  wss_url: "wss://capsolver.yxschool.cc:8998/ws/worker/"
   wss_url: "ws://127.0.0.1:8000/worker/"
-
-# 动态代理配置（适配 ipworld）
-proxy:
-  server: "http://pr-sg.ip2world.com:6001"
-  username: ""
-  password: ""

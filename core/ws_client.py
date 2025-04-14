@@ -7,6 +7,7 @@ import concurrent.futures
 from framework.solver_core import get_solver_config
 from core.system_resources import auto_concurrency
 from common.logger import get_logger,emoji
+
 logger = get_logger("ws_client")
 with open("config/config.yaml", "r") as f:
     config = yaml.safe_load(f)
@@ -66,8 +67,11 @@ async def receiver(ws):
         logger.info(emoji("GETTASK",f"接收到任务: {task['type']} - {task['taskId']}"))
         await task_queue.put((task,proxy))
 
+import contextlib
+
 async def worker_main():
     uri = config.get("worker").get("wss_url") + config.get("worker").get("name")
+
     while True:
         try:
             async with websockets.connect(uri) as ws:
@@ -78,12 +82,13 @@ async def worker_main():
                 }))
                 logger.info(emoji("SUCCESS",f"已注册:{uri}"))
 
-                await asyncio.gather(
-                    heartbeat(ws),
-                    receiver(ws),
-                    *[task_worker(ws) for _ in range(MAX_CONCURRENCY)]
-                )
+                async with asyncio.TaskGroup() as tg:
+                    tg.create_task(heartbeat(ws))
+                    tg.create_task(receiver(ws))
+                    for _ in range(MAX_CONCURRENCY):
+                        tg.create_task(task_worker(ws))
+
         except Exception as e:
-            logger.info(emoji("ERROR", f"连接断开，原因: {e}"))
+            logger.warning(emoji("ERROR", f"连接断开，原因: {e}"))
             logger.info(emoji("WAIT", "5 秒后重试连接..."))
             await asyncio.sleep(5)

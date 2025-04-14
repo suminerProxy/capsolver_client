@@ -270,3 +270,13 @@
 [2025-04-13 16:17:36,619] [INFO] [ws_client] ❌ 连接断开，原因: received 1012 (service restart); then sent 1012 (service restart)
 [2025-04-13 16:17:36,621] [INFO] [ws_client] ⏳ 5 秒后重试连接...
 [2025-04-13 16:17:41,627] [INFO] [ws_client] ✅ 已注册:ws://127.0.0.1:8000/worker/test
+[2025-04-14 16:45:56,629] [INFO] [ws_client] 📌 最大允许线程数:6
+[2025-04-14 16:45:56,796] [INFO] [ws_client] ✅ 已注册:wss://capsolver.yxschool.cc:8998/ws/worker/tmp
+[2025-04-14 16:46:07,130] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 7e5b1d77-01fd-45e1-ad54-7c3f51cd187d
+[2025-04-14 16:46:52,738] [WARNING] [ws_client] ❌ 连接断开，原因: unhandled errors in a TaskGroup (1 sub-exception)
+[2025-04-14 16:46:52,738] [INFO] [ws_client] ⏳ 5 秒后重试连接...
+[2025-04-14 16:46:57,795] [INFO] [ws_client] ✅ 已注册:wss://capsolver.yxschool.cc:8998/ws/worker/tmp
+[2025-04-14 16:47:06,536] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 42ff50d6-8f7c-4bac-b485-253d150dcfa0
+[2025-04-14 16:53:16,778] [WARNING] [ws_client] ❌ 连接断开，原因: unhandled errors in a TaskGroup (1 sub-exception)
+[2025-04-14 16:53:16,780] [INFO] [ws_client] ⏳ 5 秒后重试连接...
+[2025-04-14 16:53:21,833] [INFO] [ws_client] ✅ 已注册:wss://capsolver.yxschool.cc:8998/ws/worker/tmp

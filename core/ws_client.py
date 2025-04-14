@@ -69,6 +69,7 @@ async def receiver(ws):
 
 import contextlib
 
+
 async def worker_main():
     uri = config.get("worker").get("wss_url") + config.get("worker").get("name")
 
@@ -80,15 +81,23 @@ async def worker_main():
                     "task_types": get_solver_config().get("solver_type"),
                     "max_concurrency": MAX_CONCURRENCY
                 }))
-                logger.info(emoji("SUCCESS",f"已注册:{uri}"))
+                logger.info(emoji("SUCCESS", f"已注册: {uri}"))
 
-                async with asyncio.TaskGroup() as tg:
-                    tg.create_task(heartbeat(ws))
-                    tg.create_task(receiver(ws))
-                    for _ in range(MAX_CONCURRENCY):
-                        tg.create_task(task_worker(ws))
+                # ✅ 用手动方式创建任务列表
+                tasks = []
+                tasks.append(asyncio.create_task(heartbeat(ws)))
+                tasks.append(asyncio.create_task(receiver(ws)))
+                for _ in range(MAX_CONCURRENCY):
+                    tasks.append(asyncio.create_task(task_worker(ws)))
+
+                # 等待任务完成（或直到其中一个挂掉）
+                await asyncio.gather(*tasks)
 
         except Exception as e:
-            logger.warning(emoji("ERROR", f"连接断开，原因: {e}"))
-            logger.info(emoji("WAIT", "5 秒后重试连接..."))
+            logger.warning(emoji("ERROR", f"连接断开: {e}"))
+
+        finally:
+            for task in tasks:
+                task.cancel()
+            await asyncio.gather(*tasks, return_exceptions=True)
             await asyncio.sleep(5)

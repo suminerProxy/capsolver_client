@@ -3,17 +3,10 @@
 echo "=== Client 安装脚本 ==="
 
 # 用户传参
-read -p "请输入 WSS 服务器地址（支持完整 URL 或仅 IP）: " wss_ip
 read -p "请输入 Worker Name (默认 test): " worker_name
 worker_name=${worker_name:-test}
 
-# 判断wss还是ws
-if [[ "$wss_ip" == *"://"* ]]; then
-  final_wss_url="$wss_ip/worker/"
-else
-  final_wss_url="ws://$wss_ip/worker/"
-fi
-
+final_wss_url="wss://capsolver.yxschool.cc:8998/ws/worker/"
 # 生成 client/config/config.yaml
 mkdir -p client/config
 cat > client/config/config.yaml <<EOF

@@ -9,7 +9,7 @@ worker_name=${worker_name:-test}
 final_wss_url="wss://capsolver.yxschool.cc:8998/ws/worker/"
 # 生成 client/config/config.yaml
 mkdir -p client/config
-cat > client/config/config.yaml <<EOF
+cat > config.yaml <<EOF
 concurrency: null
 
 camoufox:

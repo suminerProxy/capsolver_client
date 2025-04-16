@@ -13,7 +13,7 @@ logger = get_logger("HCaptcha")
 with open("config/config.yaml", "r") as f:
     config = yaml.safe_load(f)
 gemini_key = config.get("apikey").get("gemini_api_key")
-models = config.get("models")
+# models = config.get("models")
 headless_str = config.get("camoufox").get("headless", "true")
 headless = headless_str.lower() == "true"
 # if gemini_key:

@@ -1,4 +1,7 @@
 import asyncio
+import os
+import sys
+
 import websockets
 import json
 import yaml
@@ -7,7 +10,7 @@ import concurrent.futures
 from framework.solver_core import get_solver_config
 from core.system_resources import auto_concurrency
 from common.logger import get_logger,emoji
-
+import traceback
 logger = get_logger("ws_client")
 with open("config/config.yaml", "r") as f:
     config = yaml.safe_load(f)
@@ -18,8 +21,50 @@ semaphore = asyncio.Semaphore(MAX_CONCURRENCY)
 executor = concurrent.futures.ThreadPoolExecutor(max_workers=MAX_CONCURRENCY)
 
 logger.info(emoji("TASK",f"最大允许线程数:{MAX_CONCURRENCY}"))
+def safe_import_handler(module_name: str, filename: str):
+    try:
+        logger.debug(f"🔍 正在尝试导入模块: task_handlers.{module_name}")
+        return importlib.import_module(f"task_handlers.{module_name}")
+    except ModuleNotFoundError as e:
+        logger.warning(f"⚠️ 模块未找到（importlib 尝试失败）: {e}")
+    except Exception as e:
+        logger.error(f"❌ 使用 importlib 导入模块失败: {e}")
+        logger.debug(traceback.format_exc())
+
+    try:
+        path = os.path.join("task_handlers", filename)
+        logger.debug(f"🔍 尝试通过路径加载模块: {path}")
+
+        if not os.path.exists(path):
+            logger.error(f"❌ 文件不存在: {path}")
+            return None
+
+        spec = importlib.util.spec_from_file_location(module_name, path)
+        if not spec:
+            logger.error("❌ 创建模块 spec 失败")
+            return None
+
+        module = importlib.util.module_from_spec(spec)
+        sys.modules[module_name] = module
+
+        try:
+            spec.loader.exec_module(module)
+        except Exception as e:
+            logger.error(f"❌ 执行模块失败: {e}")
+            logger.debug(traceback.format_exc())
+            return None
+
+        logger.info(f"✅ 成功通过路径加载模块: {module_name}")
+        return module
+
+    except Exception as e:
+        logger.error(f"❌ 路径导入异常: {e}")
+        logger.debug(traceback.format_exc())
+        return None
 async def run_task(task,proxy):
-    handler = importlib.import_module(f"task_handlers.{task['type']}")
+    module_name = task["type"]
+    filename = f"{module_name}.py"
+    handler = safe_import_handler(module_name, filename)
     logger.debug(f"执行的函数:{handler}")
     if asyncio.iscoroutinefunction(handler.run):
         result = await handler.run(task,proxy)
@@ -66,8 +111,6 @@ async def receiver(ws):
         proxy = json.loads(msg).get("proxy")
         logger.info(emoji("GETTASK",f"接收到任务: {task['type']} - {task['taskId']}"))
         await task_queue.put((task,proxy))
-
-import contextlib
 
 
 async def worker_main():

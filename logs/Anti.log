@@ -347,3 +347,390 @@ Call log:
 [2025-04-13 16:15:14,830] [DEBUG] [Anti] 对象数量追踪: 99138
 [2025-04-14 16:46:19,457] [INFO] [Anti] ✅ Solved Turnstile in 11.7s -> 0.rZFXC7pI...
 [2025-04-14 16:47:21,957] [INFO] [Anti] ✅ Solved Turnstile in 15.42s -> 0.h-H72adG...
+[2025-04-16 20:11:49,297] [DEBUG] [Anti] task_data: {'taskId': '0a499f7d-da3b-48d7-824e-96f4f1ec038e', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': 'd0ba98cc-0528-41a0-98fe-dc66945e5416', 'websiteURL': 'https://faucet.n1stake.com/', 'metadata': {'action': ''}}
+[2025-04-16 20:11:49,297] [DEBUG] [Anti] action: d0ba98cc-0528-41a0-98fe-dc66945e5416
+[2025-04-16 20:11:49,297] [DEBUG] [Anti] headless: True
+[2025-04-16 20:11:49,297] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1058fd130>
+[2025-04-16 20:11:49,297] [DEBUG] [Anti] Attempting to solve URL: https://faucet.n1stake.com/
+[2025-04-16 20:11:49,297] [DEBUG] [Anti] Proxy: {'server': 'http://104.252.149.106:5520', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-16 20:12:02,453] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:12:05,466] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:12:08,484] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:12:11,506] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:12:14,517] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:12:17,525] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:12:26,057] [DEBUG] [Anti] task_data: {'taskId': '1d9d2e66-5c77-478f-a4f1-912fa4225e87', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': 'd0ba98cc-0528-41a0-98fe-dc66945e5416', 'websiteURL': 'https://faucet.n1stake.com/', 'metadata': {'action': ''}}
+[2025-04-16 20:12:26,057] [DEBUG] [Anti] action: d0ba98cc-0528-41a0-98fe-dc66945e5416
+[2025-04-16 20:12:26,057] [DEBUG] [Anti] headless: True
+[2025-04-16 20:12:26,057] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1184b0170>
+[2025-04-16 20:12:26,057] [DEBUG] [Anti] Attempting to solve URL: https://faucet.n1stake.com/
+[2025-04-16 20:12:26,057] [DEBUG] [Anti] Proxy: {'server': 'http://45.38.111.97:6012', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-16 20:12:33,030] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:12:36,042] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:14:25,778] [DEBUG] [Anti] task_data: {'taskId': '9b691d3e-c1c3-4ae0-9599-75c7d6504b57', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': 'd0ba98cc-0528-41a0-98fe-dc66945e5416', 'websiteURL': 'https://faucet.n1stake.com/', 'metadata': {'action': ''}}
+[2025-04-16 20:14:25,778] [DEBUG] [Anti] action: d0ba98cc-0528-41a0-98fe-dc66945e5416
+[2025-04-16 20:14:25,779] [DEBUG] [Anti] headless: True
+[2025-04-16 20:14:25,779] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x1042d79e0>
+[2025-04-16 20:14:25,779] [DEBUG] [Anti] Attempting to solve URL: https://faucet.n1stake.com/
+[2025-04-16 20:14:25,780] [DEBUG] [Anti] Proxy: {'server': 'http://89.43.32.150:5978', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-16 20:14:35,560] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:14:38,567] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:14:57,589] [DEBUG] [Anti] task_data: {'taskId': 'c7a4bdce-b2d5-474b-b008-aaf4236a0e53', 'type': 'AntiTurnstileTaskProxyLess', 'websiteKey': 'd0ba98cc-0528-41a0-98fe-dc66945e5416', 'websiteURL': 'https://faucet.n1stake.com/', 'metadata': {'action': ''}}
+[2025-04-16 20:14:57,589] [DEBUG] [Anti] action: d0ba98cc-0528-41a0-98fe-dc66945e5416
+[2025-04-16 20:14:57,589] [DEBUG] [Anti] headless: True
+[2025-04-16 20:14:57,589] [DEBUG] [Anti] solver: <task_handlers.AntiTurnstileTaskProxyLess.TurnstileSolver object at 0x107008f20>
+[2025-04-16 20:14:57,589] [DEBUG] [Anti] Attempting to solve URL: https://faucet.n1stake.com/
+[2025-04-16 20:14:57,589] [DEBUG] [Anti] Proxy: {'server': 'http://94.176.106.139:6553', 'username': 'jnccmnip', 'password': 'pcdd6dwqjyr3'},type:<class 'dict'>
+[2025-04-16 20:15:07,140] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:15:10,148] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:15:13,157] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:15:16,178] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:15:19,195] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:15:22,213] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:15:25,249] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:15:28,267] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:15:31,284] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:15:34,298] [DEBUG] [Anti] Click error: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator("//div[@class='cf-turnstile']")
+  -     - locator resolved to <div class="cf-turnstile" data-sitekey="d0ba98cc-0528-41a0-98fe-dc66945e5416">…</div>
+  -   - attempting click action
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -     - waiting 20ms
+  -     2 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 100ms
+  -     6 × waiting for element to be visible, enabled and stable
+  -       - element is not visible
+  -     - retrying click action
+  -       - waiting 500ms
+
+[2025-04-16 20:15:34,298] [ERROR] [Anti] Failed to retrieve Turnstile value.
+[2025-04-16 20:15:34,573] [DEBUG] [Anti] 🧠 内存占用: 156.86 MB
+[2025-04-16 20:15:34,574] [DEBUG] [Anti] 对象数量追踪: 104151

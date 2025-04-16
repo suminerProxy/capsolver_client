@@ -30,7 +30,7 @@ async def run(task_data, proxy):
     logger.info(f"🌐 Preparing hCaptcha page at {url}")
 
     async with AsyncCamoufox(
-        headless=False,
+        headless=headless,
         proxy=proxy,
         geoip=True,
         args=["--lang=en-US", "--accept-language=en-US,en;q=0.9"]

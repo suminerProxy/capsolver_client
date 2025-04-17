@@ -60,11 +60,11 @@ async def run(task_data, proxy):
             cr = agent.cr_list[-1]
             cr_data = cr.model_dump()
             print(cr_data)
-            token = cr_data["c"]['req'] if cr_data.get("is_pass") else None
+            token = cr_data["generated_pass_UUID"] if cr_data.get("is_pass") else None
             return {
                 "token": token,
                 "elapsed": cr_data.get("expiration", 0),
-                "status": "success" if cr_data.get("pass") else "failure",
+                "status": "success" if cr_data.get("is_pass") else "failure",
                 "type": "hcaptcha"
             }
 

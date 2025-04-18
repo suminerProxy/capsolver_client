@@ -461,3 +461,1390 @@ FileNotFoundError: [Errno 2] No such file or directory: '../config/config.yaml'
 [2025-04-16 20:33:35,737] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - e6a182dd-d89e-4bf0-a04a-0a53d6303ed1
 [2025-04-16 20:33:35,738] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.HcaptchaCracker
 [2025-04-16 20:33:36,346] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.HcaptchaCracker' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/HcaptchaCracker.py'>
+[2025-04-16 22:02:25,220] [INFO] [ws_client] 📌 最大允许线程数:4
+[2025-04-16 22:02:25,282] [INFO] [ws_client] ✅ 已注册: wss://capsolver.yxschool.cc:8998/ws/worker/tmp
+[2025-04-16 22:03:39,828] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 8f607760-ef0a-4a4a-8057-504f3a633c2f
+[2025-04-16 22:03:39,830] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:03:40,139] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:04:05,428] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - b53bfcf2-1896-4d3d-858a-97a72c1e6c44
+[2025-04-16 22:04:05,429] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:04:05,429] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:04:36,525] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - dfb8d7a7-ccd7-44a2-be66-9d62589be194
+[2025-04-16 22:04:36,526] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:04:36,527] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:05:00,237] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 3d10e329-b3ae-41c9-b653-a898fe35511f
+[2025-04-16 22:05:00,238] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:05:00,239] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:05:25,669] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - ca2221b3-5d2b-4a8a-ac95-4818a0d09832
+[2025-04-16 22:05:25,671] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:05:25,671] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:05:47,126] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 249c935b-cc85-4603-862b-d985fe362c62
+[2025-04-16 22:05:47,127] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:05:47,127] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:06:06,821] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 30c9736a-1387-4487-8b9c-1a33b7cbffd6
+[2025-04-16 22:06:06,822] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:06:06,823] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:06:26,013] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - d3ea29de-fa2a-4576-a9c3-607bfa8ee8be
+[2025-04-16 22:06:26,014] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:06:26,015] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:06:47,346] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 16dcc616-6683-436c-bf49-f8053db19ba6
+[2025-04-16 22:06:47,348] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:06:47,348] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:07:08,097] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - a89ffbbf-0258-4c11-ab93-52b5278aa99d
+[2025-04-16 22:07:08,098] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:07:08,098] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:07:28,311] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - a1a8d80a-a514-4a2a-b9c0-16cdd33a182b
+[2025-04-16 22:07:28,311] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:07:28,311] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:07:45,630] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 4dc236b6-7385-42e9-b35d-c8d854877a9f
+[2025-04-16 22:07:45,630] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:07:45,631] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:08:07,094] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 3b9a010e-a6ad-438d-8621-863b3bf469eb
+[2025-04-16 22:08:07,095] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:08:07,096] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:08:26,462] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - b6a40c7d-404f-42b5-8656-6565b85587cd
+[2025-04-16 22:08:26,463] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:08:26,463] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:08:45,496] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - f556083f-23c1-4afc-962f-ca3db792ba08
+[2025-04-16 22:08:45,497] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:08:45,497] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:09:06,243] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 3cb93d98-3372-4948-b42d-8f75fd361bf5
+[2025-04-16 22:09:06,245] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:09:06,245] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:09:25,567] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 4916b0e9-f83d-4882-b993-0ed7805084cb
+[2025-04-16 22:09:25,568] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:09:25,568] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:09:45,554] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 2059e611-5758-4762-8678-eff9ecfb00b7
+[2025-04-16 22:09:45,556] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:09:45,556] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:10:18,361] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - ceedbe1c-25a4-4a6a-899f-eb5ffc78cbc7
+[2025-04-16 22:10:18,362] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:10:18,363] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:10:49,300] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 89501bf2-a487-4357-8bce-57d4c6fc4a92
+[2025-04-16 22:10:49,301] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:10:49,302] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:11:17,097] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - b82c7e1e-b024-45c6-a63e-d24683cc1819
+[2025-04-16 22:11:17,098] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:11:17,098] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:11:35,740] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - ed129c1e-c9f2-4878-b14d-1e9545990374
+[2025-04-16 22:11:35,741] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:11:35,741] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:11:59,562] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 431b0036-3333-4ef7-b4a7-7433996e0990
+[2025-04-16 22:11:59,562] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:11:59,562] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:12:19,199] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 37ec3d58-471c-4652-be30-7184b578840c
+[2025-04-16 22:12:19,201] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:12:19,201] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:12:47,132] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 02ad110c-1cc1-4078-86bd-35878d4f4110
+[2025-04-16 22:12:47,134] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:12:47,134] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:13:06,140] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - a0864d4b-7d78-4c38-b97c-bc3d6864f97b
+[2025-04-16 22:13:06,141] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:13:06,141] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:13:26,169] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 8cdcc095-f363-416f-b71c-7ae4c43dece3
+[2025-04-16 22:13:26,170] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:13:26,170] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:13:45,716] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 34de40d9-d3ec-441f-839d-927fc2a05473
+[2025-04-16 22:13:45,716] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:13:45,717] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:14:16,275] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 49ded50b-b96b-44a9-af13-d68e3b7df56d
+[2025-04-16 22:14:16,277] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:14:16,277] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:14:36,040] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 0bce5d75-163c-4838-a9f8-2eb64f2facfe
+[2025-04-16 22:14:36,041] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:14:36,041] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-16 22:14:56,213] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - c0ff49f2-e2b3-4e73-b4c3-202dd34acf16
+[2025-04-16 22:14:56,214] [DEBUG] [ws_client] 🔍 正在尝试导入模块: task_handlers.AntiTurnstileTaskProxyLess
+[2025-04-16 22:14:56,214] [DEBUG] [ws_client] 执行的函数:<module 'task_handlers.AntiTurnstileTaskProxyLess' from '/Users/hewenjian/PycharmProjects/brush-captcha/client/task_handlers/AntiTurnstileTaskProxyLess.py'>
+[2025-04-17 16:14:13,996] [INFO] [ws_client] 📌 最大允许线程数:4
+[2025-04-17 16:14:14,062] [INFO] [ws_client] ✅ 已注册: wss://capsolver.yxschool.cc:8998/ws/worker/tmp2
+[2025-04-17 16:14:14,353] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 5a573a31-d80d-448e-9e00-331bc4832123
+[2025-04-17 16:14:24,811] [INFO] [ws_client] 📌 最大允许线程数:4
+[2025-04-17 16:14:24,876] [INFO] [ws_client] ✅ 已注册: wss://capsolver.yxschool.cc:8998/ws/worker/tmp2
+[2025-04-17 16:14:27,576] [INFO] [ws_client] 📌 最大允许线程数:4
+[2025-04-17 16:14:27,623] [INFO] [ws_client] ✅ 已注册: wss://capsolver.yxschool.cc:8998/ws/worker/tmp2
+[2025-04-17 16:14:28,730] [INFO] [ws_client] 📥 接收到任务: AntiTurnstileTaskProxyLess - 13bc224c-23b3-4acf-a38a-ff3260bae788
+[2025-04-17 16:15:42,663] [INFO] [ws_client] 📌 最大允许线程数:4
+[2025-04-17 16:15:42,719] [INFO] [ws_client] ✅ 已注册: wss://capsolver.yxschool.cc:8998/ws/worker/tmp2
+[2025-04-17 16:15:47,154] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 63317f88-1e14-4dcc-bec6-0f6cdc1e5f62
+[2025-04-17 16:21:29,719] [INFO] [ws_client] 📌 最大允许线程数:6
+[2025-04-17 16:21:29,781] [INFO] [ws_client] ✅ 已注册: wss://capsolver.yxschool.cc:8998/ws/worker/tmp2
+[2025-04-17 16:21:37,293] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - b44cc51e-175b-4d6e-9cfe-cb6b936e6479
+[2025-04-17 16:25:27,682] [INFO] [ws_client] 📌 最大允许线程数:6
+[2025-04-17 16:25:27,729] [INFO] [ws_client] ✅ 已注册: wss://capsolver.yxschool.cc:8998/ws/worker/tmp2
+[2025-04-17 16:25:32,646] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 6671ddd2-f2d9-4ae2-a40e-20cb49f0f259
+[2025-04-17 16:32:49,543] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - a8777b46-5f8c-471b-b1ca-7628d4dcc35e
+[2025-04-17 16:38:22,979] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 94e026bd-39b2-448b-8b29-861361cb0a79
+[2025-04-17 16:39:00,553] [WARNING] [ws_client] ❌ 连接断开: received 1011 (internal error) keepalive ping timeout; then sent 1011 (internal error) keepalive ping timeout
+[2025-04-17 16:39:05,723] [INFO] [ws_client] ✅ 已注册: wss://capsolver.yxschool.cc:8998/ws/worker/tmp2
+[2025-04-18 15:20:43,260] [INFO] [ws_client] 📌 最大允许线程数:4
+[2025-04-18 15:20:43,326] [INFO] [ws_client] ✅ 已注册: wss://capsolver.yxschool.cc:8998/ws/worker/tmp2
+[2025-04-18 15:21:20,362] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 92b4e3c0-b48e-4da5-8e38-29c185728365
+[2025-04-18 15:21:21,641] [ERROR] [ws_client] ❌ 任务执行异常: 'geminiKey'
+[2025-04-18 15:22:49,568] [INFO] [ws_client] 📌 最大允许线程数:4
+[2025-04-18 15:22:49,582] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/tmp2
+[2025-04-18 15:22:52,421] [INFO] [ws_client] 📌 最大允许线程数:4
+[2025-04-18 15:22:52,430] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/tmp2
+[2025-04-18 15:23:09,540] [WARNING] [ws_client] ❌ 连接断开: received 1012 (service restart); then sent 1012 (service restart)
+[2025-04-18 15:23:14,547] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:23:19,555] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:23:24,558] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:23:29,567] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:23:34,570] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:23:39,575] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:23:44,577] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:23:49,590] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/tmp2
+[2025-04-18 15:23:51,618] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 89ff5aa7-d227-4cf0-a436-bbad546d205b
+[2025-04-18 15:23:52,344] [ERROR] [ws_client] ❌ 任务执行异常: 'geminiKey'
+[2025-04-18 15:24:26,689] [INFO] [ws_client] 📌 最大允许线程数:4
+[2025-04-18 15:24:26,702] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/tmp2
+[2025-04-18 15:24:35,599] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 330947f6-1e83-4a29-9fcb-ed3ab749b168
+[2025-04-18 15:24:36,325] [ERROR] [ws_client] ❌ 任务执行异常: 'clientKey'
+[2025-04-18 15:25:54,877] [INFO] [ws_client] 📌 最大允许线程数:4
+[2025-04-18 15:25:54,890] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/tmp2
+[2025-04-18 15:26:02,312] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 7cfb5701-6bde-4cbb-a069-8941b15f0147
+[2025-04-18 15:26:03,019] [ERROR] [ws_client] ❌ 任务执行异常: 'clientKey'
+[2025-04-18 15:28:16,101] [WARNING] [ws_client] ❌ 连接断开: received 1012 (service restart); then sent 1012 (service restart)
+[2025-04-18 15:28:21,110] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/tmp2
+[2025-04-18 15:28:21,432] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - d356ffb1-3050-42d6-98e0-6356c92489f2
+[2025-04-18 15:28:21,432] [ERROR] [ws_client] ❌ 任务执行异常: 'clientKey'
+[2025-04-18 15:31:04,033] [WARNING] [ws_client] ❌ 连接断开: received 1012 (service restart); then sent 1012 (service restart)
+[2025-04-18 15:31:09,044] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/tmp2
+[2025-04-18 15:31:09,372] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 581f70bb-993d-4475-ade8-27acba6cea37
+[2025-04-18 15:46:50,000] [WARNING] [ws_client] ❌ 连接断开: received 1012 (service restart); then sent 1012 (service restart)
+[2025-04-18 15:46:55,011] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:47:00,020] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:47:05,024] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:47:10,028] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:47:15,032] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:47:20,035] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:47:25,039] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:47:30,043] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:47:35,047] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:47:40,052] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:47:45,056] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:47:50,059] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:47:55,063] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:48:00,068] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:48:05,074] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:48:10,078] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:48:15,081] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:48:20,086] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:48:25,091] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:48:30,095] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:48:35,098] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:48:40,103] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:48:45,107] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:48:50,112] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:48:55,116] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:49:00,120] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:49:05,122] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:49:10,127] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:49:15,138] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:49:20,142] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:49:25,145] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:49:30,150] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:49:35,155] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:49:40,158] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:49:45,165] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:49:50,169] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:49:55,172] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:50:00,176] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:50:05,180] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:50:10,183] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:50:15,187] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:50:20,192] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:50:25,197] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:50:30,202] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:50:35,208] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:50:40,211] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:50:45,215] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:50:50,220] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:50:55,223] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:51:00,226] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:51:05,229] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:51:10,234] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:51:15,239] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:51:20,243] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:51:25,247] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:51:30,251] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:51:35,255] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:51:40,257] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:51:45,262] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:51:50,265] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:51:55,268] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:52:00,271] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:52:05,275] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:52:10,278] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:52:15,283] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:52:20,288] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:52:25,292] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:52:30,295] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:52:35,299] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:52:40,303] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:52:45,307] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:52:50,310] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:52:55,316] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:53:00,321] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:53:05,325] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:53:10,329] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:53:15,334] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:53:20,338] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:53:25,341] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:53:30,344] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:53:35,349] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:53:40,352] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:53:45,356] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:53:50,360] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:53:55,365] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:54:00,369] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:54:05,375] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:54:10,380] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:54:15,384] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:54:20,389] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:54:25,392] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:54:30,397] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:54:35,401] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:54:40,405] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:54:45,410] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:54:50,417] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:54:55,420] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:55:00,424] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:55:05,429] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:55:10,434] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:55:15,439] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:55:20,443] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:55:25,447] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:55:30,451] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:55:35,456] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:55:40,458] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:55:45,471] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:55:50,484] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:55:55,489] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:56:00,495] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:56:05,499] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:56:10,504] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:56:15,509] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:56:20,514] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:56:25,517] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:56:30,520] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:56:35,525] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:56:40,528] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:56:45,532] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:56:50,536] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:56:55,544] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:57:00,567] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:57:05,583] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:57:10,593] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:57:15,601] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:57:20,610] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:57:25,616] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:57:30,620] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:57:35,625] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:57:40,631] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:57:45,639] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:57:50,644] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:57:55,649] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:58:00,661] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:58:05,667] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:58:10,671] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:58:15,675] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:58:20,680] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:58:25,683] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:58:30,689] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:58:35,694] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:58:40,698] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:58:45,706] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:58:50,710] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:58:55,722] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:59:00,725] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:59:05,728] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:59:10,732] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:59:15,736] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:59:20,741] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:59:25,745] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:59:30,749] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:59:35,753] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:59:40,756] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:59:45,760] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:59:50,766] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 15:59:55,769] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:00:00,773] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:00:05,778] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:00:10,783] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:00:15,808] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:00:20,813] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:00:25,817] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:00:30,820] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:00:35,826] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:00:40,830] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:00:45,838] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:00:50,845] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:00:55,850] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:01:00,853] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:01:05,857] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:01:10,861] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:01:15,867] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:01:20,871] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:01:25,875] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:01:30,879] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:01:35,884] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:01:40,888] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:01:45,897] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:01:50,902] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:01:55,906] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:02:00,910] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:02:05,915] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:02:10,919] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:02:15,923] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:02:20,927] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:02:25,932] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:02:30,935] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:02:35,940] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:02:40,943] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:02:45,947] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:02:50,950] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:02:55,955] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:03:00,964] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:03:05,970] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:03:10,975] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:03:15,980] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:03:20,984] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:03:25,988] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:03:30,993] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:03:35,998] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:03:41,002] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:03:46,009] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:03:51,014] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:03:56,018] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:04:01,022] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:04:06,027] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:04:11,032] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:04:16,037] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:04:21,040] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:04:26,046] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:04:31,051] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:04:36,055] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:04:41,060] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:04:46,065] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:04:51,068] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:04:56,071] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:05:01,082] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:05:06,087] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:05:11,091] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:05:16,097] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:05:21,100] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:05:26,104] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:05:31,108] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:05:36,112] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:05:41,116] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:05:46,122] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:05:51,126] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:05:56,131] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:06:01,135] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:06:06,140] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:06:11,144] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:06:16,150] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:06:21,154] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:06:26,158] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:06:31,163] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:06:36,166] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:06:41,170] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:06:46,175] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:06:51,186] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:06:56,193] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:07:01,198] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:07:06,202] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:07:11,207] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:07:16,211] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:07:21,216] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:07:26,221] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:07:31,225] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:07:36,230] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:07:41,236] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:07:46,240] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:07:51,245] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:07:56,250] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:08:01,255] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:08:06,261] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:08:11,265] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:08:16,272] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:08:21,278] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:08:26,283] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:08:31,289] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:08:36,295] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:08:41,300] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:08:46,306] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:08:51,310] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:08:56,315] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:09:01,319] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:09:06,324] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:09:11,327] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:09:16,332] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:09:21,339] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:09:26,343] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:09:31,349] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:09:36,353] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:09:41,358] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:09:46,371] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:09:51,383] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:09:56,389] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:10:01,395] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:10:06,399] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:10:11,404] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:10:16,409] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:10:21,413] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:10:26,417] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:10:31,420] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:10:36,425] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:10:41,430] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:10:46,434] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:10:51,440] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:10:56,444] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:11:01,452] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:11:06,460] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:11:11,465] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:11:16,471] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:11:21,476] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:11:26,481] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:11:31,486] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:11:36,490] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:11:41,495] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:11:46,502] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:11:51,510] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:11:56,514] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:12:01,519] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:12:06,524] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:12:11,528] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:12:16,532] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:12:21,537] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:12:26,542] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:12:31,545] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:12:36,551] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:12:41,556] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:12:46,566] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:12:51,572] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:12:56,577] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:13:01,585] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:13:06,589] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:13:11,593] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:13:16,596] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:13:21,599] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:13:26,603] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:13:31,606] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:13:36,610] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:13:41,612] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:13:46,616] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:13:51,621] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:13:56,625] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:14:01,630] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:14:06,634] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:14:11,641] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:14:16,646] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:14:21,649] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:14:26,652] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:14:31,657] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:14:36,663] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:14:41,669] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:14:46,674] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:14:51,678] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:14:56,683] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:15:01,689] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:15:06,694] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:15:11,697] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:15:16,701] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:15:21,703] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:15:26,706] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:15:31,710] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:15:36,714] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:15:41,717] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:15:46,726] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:15:51,731] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:15:56,737] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:16:01,741] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:16:06,746] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:16:11,749] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:16:16,755] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:16:21,760] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:16:26,764] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:16:31,767] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:16:36,770] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:16:41,775] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:16:46,780] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:16:51,785] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:16:56,790] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:17:01,794] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:17:06,798] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:17:11,802] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:17:16,807] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:17:21,811] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:17:26,816] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:17:31,821] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:17:36,826] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:17:41,830] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:17:46,835] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:17:51,840] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:17:56,845] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:18:01,849] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:18:06,854] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:18:11,859] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:18:16,866] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:18:21,871] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:18:26,876] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:18:31,880] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:18:36,884] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:18:41,888] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:18:46,898] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:18:51,902] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:18:56,908] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:19:01,912] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:19:06,915] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:19:11,919] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:19:16,923] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:19:21,926] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:19:26,930] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:19:31,933] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:19:36,937] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:19:41,941] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:19:46,947] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:19:51,951] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:19:56,956] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:20:01,961] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:20:06,966] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:20:11,971] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:20:16,975] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:20:21,978] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:20:26,983] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:20:31,988] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:20:36,993] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:20:41,996] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:20:47,004] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:20:52,010] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:20:57,014] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:21:02,018] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:21:07,022] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:21:12,026] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:21:17,032] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:21:22,039] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:21:27,044] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:21:32,049] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:21:37,053] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:21:42,057] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:21:47,063] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:21:52,068] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:21:57,072] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:22:02,078] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:22:07,083] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:22:12,087] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:22:17,091] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:22:22,094] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:22:27,097] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:22:32,101] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:22:37,106] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:22:42,110] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:22:47,116] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:22:52,121] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:22:57,126] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:23:02,131] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:23:07,136] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:23:12,141] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:23:17,146] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:23:22,151] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:23:27,154] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:23:32,158] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:23:37,161] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:23:42,163] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:23:47,172] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:23:52,269] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:23:57,273] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:24:02,278] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:24:07,283] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:24:12,286] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:24:17,291] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:24:22,296] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:24:27,300] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:24:32,302] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:24:37,306] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:24:42,310] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:24:47,314] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:24:52,319] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:24:57,323] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:25:02,327] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:25:07,332] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:25:12,337] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:25:17,342] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:25:22,346] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:25:27,350] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:25:32,354] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:25:37,358] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:25:42,362] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:25:47,367] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:25:52,373] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:25:57,377] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:26:02,381] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:26:07,385] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:26:12,390] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:26:17,395] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:26:22,399] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:26:27,403] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:26:32,408] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:26:37,412] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:26:42,417] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:26:47,422] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:26:52,426] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:26:57,436] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:27:02,442] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:27:07,450] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:27:12,457] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:27:17,461] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:27:22,464] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:27:27,467] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:27:32,470] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:27:37,473] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:27:42,477] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:27:47,480] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:27:52,485] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:27:57,488] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:28:02,493] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:28:07,496] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:28:12,501] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:28:17,507] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:28:22,511] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:28:27,513] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:28:32,518] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:28:37,524] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:28:42,529] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:28:47,534] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:28:52,538] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:28:57,543] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:29:02,549] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:29:07,553] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:29:12,557] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:29:17,562] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:29:22,567] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:29:27,572] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:29:32,577] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:29:37,582] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:29:42,588] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:29:47,595] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:29:52,600] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:29:57,603] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:30:02,607] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:30:07,611] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:30:12,618] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:30:17,623] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:30:22,628] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:30:27,632] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:30:32,636] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:30:37,641] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:30:42,646] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:30:47,651] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:30:52,654] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:30:57,658] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:31:02,662] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:31:07,667] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:31:12,671] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:31:17,676] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:31:22,681] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:31:27,685] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:31:32,690] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:31:37,694] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:31:42,699] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:31:47,703] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:31:52,709] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:31:57,713] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:32:02,717] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:32:07,720] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:32:12,724] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:32:17,728] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:32:22,732] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:32:27,739] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:32:32,744] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:32:37,748] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:32:42,753] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:32:47,758] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:32:52,763] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:32:57,768] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:33:02,773] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:33:07,778] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:33:12,783] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:33:17,787] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:33:22,792] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:33:27,797] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:33:32,803] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:33:37,807] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:33:42,811] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:33:47,826] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:33:52,838] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:33:57,840] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:34:02,843] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:34:07,847] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:34:12,851] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:34:17,857] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:34:22,861] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:34:27,867] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:34:32,871] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:34:37,876] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:34:42,881] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:34:47,886] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:34:52,889] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:34:57,893] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:35:02,897] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:35:07,901] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:35:12,906] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:35:17,911] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:35:22,916] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:35:27,920] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:35:32,925] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:35:37,928] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:35:42,932] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:35:47,936] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:35:52,941] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:35:57,946] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:36:02,953] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:36:07,957] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:36:12,962] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:36:17,965] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:36:22,970] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:36:27,975] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:36:32,981] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:36:37,986] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:36:42,990] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:36:47,995] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:36:53,000] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:36:58,005] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:37:03,011] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:37:08,016] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:37:13,023] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:37:18,026] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:37:23,031] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:37:28,036] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:37:33,067] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:37:38,071] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:37:43,076] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:37:48,080] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:37:53,085] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:37:58,090] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:38:03,098] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:38:08,102] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:38:13,107] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:38:18,111] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:38:23,114] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:38:28,119] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:38:33,123] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:38:38,127] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:38:43,133] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:38:48,138] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:38:53,149] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:38:58,154] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:39:03,203] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:39:08,212] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:39:13,217] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:39:18,223] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:39:23,227] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:39:28,232] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:39:33,235] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:39:38,238] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:39:43,242] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:39:48,246] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:39:53,250] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:39:58,256] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:40:03,261] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:40:08,265] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:40:13,269] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:40:18,271] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:40:23,276] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:40:28,280] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:40:33,286] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:40:38,289] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:40:43,292] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:40:48,305] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:40:53,315] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:40:58,321] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:41:03,325] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:41:08,329] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:41:13,334] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:41:18,340] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:41:23,345] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:41:28,349] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:41:33,355] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:41:38,359] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:41:43,362] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:41:48,367] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:41:53,372] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:41:58,377] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:42:03,383] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:42:08,388] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:42:13,392] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:42:18,397] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:42:23,402] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:42:28,406] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:42:33,410] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:42:38,415] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:42:43,419] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:42:48,423] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:42:53,428] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:42:58,433] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:43:03,438] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:43:08,443] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:43:13,447] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:43:18,452] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:43:23,455] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:43:28,460] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:43:33,467] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:43:38,473] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:43:43,478] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:43:48,483] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:43:53,488] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:43:58,491] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:44:03,496] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:44:08,554] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:44:13,558] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:44:18,562] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:44:23,566] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:44:28,571] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:44:33,574] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:44:38,578] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:44:43,583] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:44:48,589] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:44:53,596] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:44:58,599] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:45:03,619] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:45:08,630] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:45:13,660] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:45:18,663] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:45:23,667] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:45:28,669] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:45:33,673] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:45:38,679] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:45:43,684] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:45:48,688] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:45:53,692] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:45:58,696] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:46:03,701] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:46:08,706] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:46:13,710] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:46:18,714] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:46:23,720] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:46:28,726] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:46:33,733] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:46:38,739] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:46:43,744] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:46:48,753] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:46:53,760] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:46:58,765] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:47:03,768] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:47:08,771] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:47:13,776] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:47:18,781] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:47:23,786] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:47:28,790] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:47:33,794] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:47:38,799] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:47:43,804] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:47:48,809] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:47:53,814] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:47:58,817] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:48:03,821] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:48:08,826] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:48:13,831] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:48:18,835] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:48:23,840] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:48:28,845] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:48:33,849] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:48:38,853] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:48:43,858] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:48:48,868] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:48:53,874] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:48:58,878] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:49:03,882] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:49:08,887] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:49:13,890] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:49:18,894] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:49:23,898] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:49:28,901] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:49:33,908] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:49:38,914] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:49:43,919] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:49:48,923] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:49:53,929] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:49:58,932] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:50:03,936] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:50:08,940] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:50:13,945] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:50:18,948] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:50:23,954] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:50:28,957] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:50:33,961] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:50:38,964] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:50:43,970] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:50:48,974] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:50:53,978] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:50:58,982] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:51:03,986] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:51:08,991] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:51:13,994] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:51:18,999] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:51:24,002] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:51:29,008] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:51:34,013] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:51:39,020] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:51:44,049] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:51:49,061] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:51:54,067] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:51:59,071] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:52:04,075] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:52:09,079] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:52:14,083] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:52:19,086] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:52:24,090] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:52:29,094] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:52:34,096] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:52:39,100] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:52:44,102] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:52:49,107] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:52:54,110] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:52:59,119] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:53:04,168] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:53:09,173] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:53:14,179] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:53:19,182] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:53:24,186] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:53:29,189] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:53:34,192] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:53:39,196] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:53:44,200] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:53:49,204] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:53:54,208] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:53:59,211] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:54:04,215] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:54:09,219] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:54:14,224] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:54:19,228] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:54:24,232] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:54:29,236] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:54:34,240] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:54:39,244] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:54:44,249] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:54:49,254] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:54:54,259] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:54:59,263] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:55:04,267] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:55:09,272] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:55:14,276] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:55:19,281] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:55:24,286] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:55:29,289] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:55:34,293] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:55:39,297] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:55:44,301] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:55:49,305] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:55:54,310] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:55:59,314] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:56:04,318] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:56:09,323] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:56:14,327] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:56:19,330] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:56:24,334] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:56:29,337] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:56:34,342] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:56:39,346] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:56:44,350] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:56:49,355] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:56:54,359] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:56:59,363] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:57:04,367] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:57:09,371] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:57:14,374] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:57:19,377] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:57:24,381] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:57:29,384] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:57:34,389] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:57:39,393] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:57:44,396] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:57:49,399] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:57:54,403] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:57:59,406] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:58:04,411] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:58:09,415] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:58:14,418] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:58:19,422] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:58:24,427] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:58:29,431] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:58:34,435] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:58:39,440] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:58:44,444] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:58:49,448] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:58:54,453] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:58:59,457] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:59:04,460] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:59:09,462] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:59:14,466] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:59:19,471] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:59:24,474] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:59:29,478] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:59:34,482] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:59:39,486] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:59:44,490] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:59:49,494] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:59:54,497] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 16:59:59,513] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:00:04,518] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:00:09,522] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:00:14,526] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:00:19,529] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:00:24,532] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:00:29,536] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:00:34,540] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:00:39,544] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:00:44,546] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:00:49,550] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:00:54,553] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:00:59,555] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:01:04,560] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:01:09,568] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:01:14,574] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:01:19,577] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:01:24,581] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:01:29,585] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:01:34,588] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:01:39,591] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:01:44,594] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:01:49,597] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:01:54,600] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:01:59,604] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:02:04,607] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:02:09,610] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:02:14,604] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:02:19,597] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:02:24,592] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:02:29,591] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:02:34,592] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:02:39,594] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:02:44,596] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:02:49,599] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:02:54,603] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:02:59,606] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:03:04,610] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:03:09,613] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:03:14,617] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:03:19,622] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:03:24,627] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:03:29,631] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:03:34,636] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:03:39,640] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:03:44,645] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:03:49,649] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:03:54,653] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:03:59,657] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:04:04,662] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:04:09,666] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:04:14,669] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:04:19,674] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:04:24,679] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:04:29,684] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:04:34,689] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:04:39,694] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:04:44,698] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:04:49,703] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:04:54,708] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:04:59,712] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:05:04,717] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:05:09,721] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:05:14,724] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:05:19,728] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:05:24,732] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:05:29,737] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:05:34,742] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:05:39,745] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:05:44,749] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:05:49,753] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:05:54,757] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:05:59,760] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:06:04,764] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:06:09,766] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:06:14,768] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:06:19,771] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:06:24,775] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:06:29,779] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:06:34,783] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:06:39,787] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:06:44,790] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:06:49,795] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:06:54,799] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:06:59,804] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:07:04,808] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:07:09,815] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:07:14,819] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:07:19,822] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:07:24,825] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:07:29,829] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:07:34,833] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:07:39,838] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:07:44,843] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:07:49,848] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:07:54,853] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:07:59,858] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:08:04,862] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:08:09,867] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:08:14,871] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:08:19,876] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:08:24,880] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:08:29,885] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:08:34,889] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:08:39,892] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:08:44,895] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:08:49,899] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:08:54,902] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:08:59,908] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:09:04,913] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:09:09,918] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:09:14,923] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:09:19,927] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:09:24,931] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:09:29,935] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:09:34,939] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-18 17:09:38,898] [INFO] [ws_client] 📌 最大允许线程数:8
+[2025-04-18 17:09:39,006] [WARNING] [ws_client] ❌ 连接断开: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)
+[2025-04-18 17:09:44,120] [WARNING] [ws_client] ❌ 连接断开: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)
+[2025-04-18 17:09:49,224] [WARNING] [ws_client] ❌ 连接断开: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)
+[2025-04-18 17:09:54,351] [WARNING] [ws_client] ❌ 连接断开: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)
+[2025-04-18 17:09:59,455] [WARNING] [ws_client] ❌ 连接断开: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)
+[2025-04-18 17:10:04,562] [WARNING] [ws_client] ❌ 连接断开: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)
+[2025-04-18 17:10:09,682] [WARNING] [ws_client] ❌ 连接断开: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)
+[2025-04-18 17:10:14,795] [WARNING] [ws_client] ❌ 连接断开: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)
+[2025-04-18 17:11:17,176] [INFO] [ws_client] 📌 最大允许线程数:7
+[2025-04-18 17:11:17,408] [INFO] [ws_client] ✅ 已注册: wss://103.30.78.2:8080/ws/worker/tmp2
+[2025-04-18 17:11:17,782] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 9d5f490f-fcab-41ce-b603-205b103eb27a
+[2025-04-18 17:11:45,815] [ERROR] [ws_client] ❌ 任务执行异常: Browser.close: Connection closed while reading from the driver
+[2025-04-18 17:46:49,108] [INFO] [ws_client] 📌 最大允许线程数:7
+[2025-04-18 17:46:49,128] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8080)
+[2025-04-18 17:46:54,136] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8080)
+[2025-04-18 17:46:59,139] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8080)
+[2025-04-18 17:47:04,143] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8080)
+[2025-04-18 17:47:09,514] [INFO] [ws_client] 📌 最大允许线程数:7
+[2025-04-18 17:47:09,774] [INFO] [ws_client] ✅ 已注册: wss://103.30.78.102:8080/ws/worker/tmp2
+[2025-04-18 18:19:59,419] [INFO] [ws_client] 📌 最大允许线程数:4
+[2025-04-18 18:19:59,621] [INFO] [ws_client] ✅ 已注册: wss://103.39.79.162:8080/ws/worker/tmp2
+[2025-04-18 19:33:14,733] [WARNING] [ws_client] ❌ 连接断开: no close frame received or sent
+[2025-04-18 19:33:19,931] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:33:25,063] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:33:30,187] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:33:35,305] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:33:40,453] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:33:45,552] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:33:50,681] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:33:55,826] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:34:00,961] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:34:06,087] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:34:11,212] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:34:16,329] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:34:21,453] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:34:26,569] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:34:31,691] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:34:36,787] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:34:41,919] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:34:47,059] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:34:52,193] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:34:57,308] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:35:02,437] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:35:07,610] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:35:12,708] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:35:17,853] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:35:22,978] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:35:28,087] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:35:33,189] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:35:38,316] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:35:43,421] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:35:48,548] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:35:53,678] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:35:58,808] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:36:03,925] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:36:09,019] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:36:14,132] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:36:19,228] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:36:24,348] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:36:29,594] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:36:34,711] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:36:39,822] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:36:44,941] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:36:50,052] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:36:55,185] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:37:00,318] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:37:05,470] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:37:10,594] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:37:15,726] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:37:20,845] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:37:25,943] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:37:31,043] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:37:36,170] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:37:41,300] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:37:46,445] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:37:51,576] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:37:56,674] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:38:01,792] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:38:06,888] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:38:12,022] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:38:17,150] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:38:22,274] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:38:27,402] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:38:32,496] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:38:37,776] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:38:42,887] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:38:48,109] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:38:53,238] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:38:58,363] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:39:03,467] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:39:08,623] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:39:13,755] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:39:18,986] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:39:24,166] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:39:29,344] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:39:34,437] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:39:39,563] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:39:44,667] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:39:49,785] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:39:54,921] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:40:00,022] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:40:05,216] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:40:10,323] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:40:15,439] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:40:20,543] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:40:25,641] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:40:30,749] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:40:35,895] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:40:41,018] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:40:46,148] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:40:51,245] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:40:56,375] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:41:01,471] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:41:06,595] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:41:11,926] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:41:17,043] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:41:22,237] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:41:27,454] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:41:32,602] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:41:37,757] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:41:42,860] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:41:47,996] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:41:53,122] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:41:58,232] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:42:03,322] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:42:08,419] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:42:13,581] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:42:18,704] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:42:23,827] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:42:28,949] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:42:34,073] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:42:39,191] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:42:44,313] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:42:49,416] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:42:54,544] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:42:59,678] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:43:04,811] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:43:09,944] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:43:15,065] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:43:20,189] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:43:25,344] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:43:30,472] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:43:35,590] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:43:40,693] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:43:45,820] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:43:50,996] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:43:56,125] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:44:01,250] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:44:06,379] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:44:11,584] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:44:16,681] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:44:21,811] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:44:26,904] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:44:32,003] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:44:37,109] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:44:42,241] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:44:47,366] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:44:52,483] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:44:57,593] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:45:02,693] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:45:07,809] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:45:12,948] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:45:18,065] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:45:23,201] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:45:28,311] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:45:33,436] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:45:38,532] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:45:43,657] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:45:48,759] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:45:53,921] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:45:59,035] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:46:04,159] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:46:09,282] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:46:14,413] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:46:19,534] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:46:24,638] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:46:29,749] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:46:34,846] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:46:39,943] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:46:45,125] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:46:50,213] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:46:55,339] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:47:00,478] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:47:05,606] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:47:10,737] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:47:15,857] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:47:20,977] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:47:26,236] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:47:31,354] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:47:36,482] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:47:41,603] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:47:46,718] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:47:51,861] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:47:56,959] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:48:02,088] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:48:07,192] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:48:12,311] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:48:17,558] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:48:22,687] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:48:27,825] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:48:33,006] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:48:38,149] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:48:43,272] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:48:48,522] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:48:53,660] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:48:58,798] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:49:03,899] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:49:08,996] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:49:14,154] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:49:19,286] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:49:24,390] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:49:30,003] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:49:35,092] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:49:40,214] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:49:45,331] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:49:50,447] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:49:55,543] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:50:00,640] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:50:05,764] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:50:10,884] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:50:16,016] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:50:21,144] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:50:26,241] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:50:31,389] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:50:36,488] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:50:41,610] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:50:46,706] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:50:51,827] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:50:56,955] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:51:02,079] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:51:07,193] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:51:12,314] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:51:17,433] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:51:22,552] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:51:27,680] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:51:32,781] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:51:37,872] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:51:42,963] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:51:48,084] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:51:53,210] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:51:58,332] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:52:03,453] [WARNING] [ws_client] ❌ 连接断开: 
+[2025-04-18 19:52:08,569] [WARNING] [ws_client] ❌ 连接断开: 

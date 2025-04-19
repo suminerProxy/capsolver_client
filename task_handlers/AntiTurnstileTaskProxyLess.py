@@ -81,7 +81,7 @@ class TurnstileSolver:
 
         return page, url_with_slash
 
-    async def _get_turnstile_response(self, page, max_attempts: int = 10) -> Optional[str]:
+    async def _get_turnstile_response(self, page, max_attempts: int = 10,config:dict = None) -> Optional[str]:
         for attempt in range(max_attempts):
             if self.debug:
                 logger.debug(f"Attempt {attempt + 1}: No Turnstile response yet.")
@@ -98,7 +98,7 @@ class TurnstileSolver:
                 continue
         return None
 
-    async def solve(self, proxy:json,url: str, sitekey: str, action: str = None, cdata: str = None,config: dict = None):
+    async def solve(self, proxy:json,url: str, sitekey: str, action: str = None, cdata: str = None,config:dict = None):
         start_time = time.time()
         logger.debug(f"Attempting to solve URL: {url}")
         proxy_config = config.get("proxy") or {}
@@ -142,7 +142,7 @@ class TurnstileSolver:
                 except Exception:
                     pass
 
-async def get_turnstile_token(proxy:json,url: str, sitekey: str, action: str = None, cdata: str = None, debug: bool = False, headless: bool = False, useragent: str = None,config: dict = None):
+async def get_turnstile_token(proxy:json,url: str, sitekey: str, action: str = None, cdata: str = None, debug: bool = False, headless: bool = False, useragent: str = None,config:dict = None) -> Optional[str]:
     solver = TurnstileSolver(debug=debug, useragent=useragent, headless=headless)
     logger.debug(f"solver: {solver}")
     result = await solver.solve(proxy=proxy,url=url, sitekey=sitekey, action=action, cdata=cdata,config=config)
@@ -166,7 +166,7 @@ async def run(task_data,proxy,config):
         debug=False,
         headless=headless,
         useragent=None,
-        config = config
+        config=config
     )
     return {
         "token": res["turnstile_value"],

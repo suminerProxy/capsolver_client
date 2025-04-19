@@ -1,0 +1,14 @@
+# 并发数设置（可选，不填则自动根据系统资源）
+concurrency: null
+
+# Camoufox 参数配置
+camoufox:
+  api_key: "test"
+  solver_type:
+    - ImageToTextTask
+    - AntiTurnstileTaskProxyLess
+  headless: "true"
+
+worker:
+  name: "test222"
+  wss_url: "ws://127.0.0.1:8000/worker/"

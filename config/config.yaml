@@ -6,6 +6,7 @@ camoufox:
   # 当前设备支持的打码类型，支持的类型server端才会分配任务
   solver_type:
     - HcaptchaCracker
+    - AntiTurnstileTaskProxyLess
   # 无头模式，默认打开即可
   headless: "false"
 

@@ -1,0 +1,30 @@
+[2025-04-19 20:32:12,815] [ERROR] [HCaptcha] ❌ Failed to solve Hcaptcha: 3 validation errors for AgentConfig
+IMAGE_CLASSIFIER_MODEL
+  Input should be 'gemini-2.5-pro-preview-03-25', 'gemini-2.5-pro-exp-03-25' or 'gemini-2.0-flash-thinking-exp-01-21' [type=literal_error, input_value='gemini-2.0-flash', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+SPATIAL_POINT_REASONER_MODEL
+  Input should be 'gemini-2.5-pro-preview-03-25', 'gemini-2.5-pro-exp-03-25' or 'gemini-2.0-flash-thinking-exp-01-21' [type=literal_error, input_value='gemini-2.0-flash', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+SPATIAL_PATH_REASONER_MODEL
+  Input should be 'gemini-2.5-pro-preview-03-25', 'gemini-2.5-pro-exp-03-25' or 'gemini-2.0-flash-thinking-exp-01-21' [type=literal_error, input_value='gemini-2.0-flash', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+[2025-04-19 20:32:36,322] [ERROR] [HCaptcha] ❌ Failed to solve Hcaptcha: 3 validation errors for AgentConfig
+IMAGE_CLASSIFIER_MODEL
+  Input should be 'gemini-2.5-pro-preview-03-25', 'gemini-2.5-pro-exp-03-25' or 'gemini-2.0-flash-thinking-exp-01-21' [type=literal_error, input_value='gemini-2.0-flash', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+SPATIAL_POINT_REASONER_MODEL
+  Input should be 'gemini-2.5-pro-preview-03-25', 'gemini-2.5-pro-exp-03-25' or 'gemini-2.0-flash-thinking-exp-01-21' [type=literal_error, input_value='gemini-2.0-flash', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+SPATIAL_PATH_REASONER_MODEL
+  Input should be 'gemini-2.5-pro-preview-03-25', 'gemini-2.5-pro-exp-03-25' or 'gemini-2.0-flash-thinking-exp-01-21' [type=literal_error, input_value='gemini-2.0-flash', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/literal_error
+[2025-04-19 20:38:11,158] [INFO] [HCaptcha] ✅ Solved Hcaptcha in 267.36s -> P1_eyJ0eXA...
+[2025-04-19 20:38:54,119] [INFO] [HCaptcha] ✅ Solved Hcaptcha in 21.31s -> P1_eyJ0eXA...
+[2025-04-19 20:39:19,936] [INFO] [HCaptcha] ✅ Solved Hcaptcha in 46.52s -> P1_eyJ0eXA...
+[2025-04-19 20:40:02,641] [INFO] [HCaptcha] ✅ Solved Hcaptcha in 88.31s -> P1_eyJ0eXA...
+[2025-04-19 20:43:20,484] [ERROR] [HCaptcha] ❌ Failed to solve Hcaptcha: 'NoneType' object is not subscriptable
+[2025-04-19 20:43:22,687] [ERROR] [HCaptcha] ❌ Failed to solve Hcaptcha: 'NoneType' object is not subscriptable
+[2025-04-19 20:44:08,856] [ERROR] [HCaptcha] ❌ Failed to solve Hcaptcha: 'NoneType' object is not subscriptable
+[2025-04-19 20:45:35,802] [ERROR] [HCaptcha] ❌ Failed to solve Hcaptcha: 'NoneType' object is not subscriptable
+[2025-04-19 20:51:30,588] [ERROR] [HCaptcha] ❌ Failed to solve Hcaptcha: 'NoneType' object is not subscriptable
+[2025-04-19 20:54:08,004] [INFO] [HCaptcha] ✅ Solved Hcaptcha in 25.48s -> P1_eyJ0eXA...

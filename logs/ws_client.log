@@ -1,0 +1,79 @@
+[2025-04-19 20:24:55,301] [INFO] [ws_client] 📌 最大允许线程数:10
+[2025-04-19 20:24:55,455] [WARNING] [ws_client] ❌ 连接断开: ssl argument is incompatible with a ws:// URI
+[2025-04-19 20:25:00,460] [WARNING] [ws_client] ❌ 连接断开: ssl argument is incompatible with a ws:// URI
+[2025-04-19 20:25:05,461] [WARNING] [ws_client] ❌ 连接断开: ssl argument is incompatible with a ws:// URI
+[2025-04-19 20:27:36,100] [INFO] [ws_client] 📌 最大允许线程数:10
+[2025-04-19 20:27:36,113] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:27:41,117] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:27:46,120] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:27:51,123] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:27:56,126] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:28:01,129] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:28:06,131] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:28:11,133] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:28:16,135] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:28:21,139] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:28:26,142] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:28:31,145] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:28:36,147] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:28:41,150] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:28:46,152] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:28:51,154] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:28:56,157] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:29:01,164] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:29:06,166] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:29:11,168] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:29:16,170] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:29:21,172] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:29:26,175] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:29:31,178] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:29:36,180] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:29:41,183] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:29:46,186] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:29:51,188] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:29:56,191] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:30:01,194] [WARNING] [ws_client] ❌ 连接断开: [Errno 61] Connect call failed ('127.0.0.1', 8000)
+[2025-04-19 20:30:06,198] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/test
+[2025-04-19 20:30:52,073] [WARNING] [ws_client] ❌ 连接断开: received 1012 (service restart); then sent 1012 (service restart)
+[2025-04-19 20:30:57,081] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/test
+[2025-04-19 20:30:59,007] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 7fe5baed-72b5-45ba-9244-74b97090bfee
+[2025-04-19 20:32:20,850] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 30fb976f-ec50-4476-932a-d5d974f45bcd
+[2025-04-19 20:33:39,835] [INFO] [ws_client] 📌 最大允许线程数:8
+[2025-04-19 20:33:39,860] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/test
+[2025-04-19 20:33:43,014] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 3d5e5d75-a066-49f9-bafb-dbb78c771d3a
+[2025-04-19 20:38:32,812] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - cf941b22-9d14-4715-9ded-068fce930c7c
+[2025-04-19 20:38:33,421] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - b7e8c5cb-b607-4509-ba00-09078834d853
+[2025-04-19 20:38:34,330] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - a0839f96-0237-4a7c-bb7b-e758d44f06d0
+[2025-04-19 20:43:10,869] [INFO] [ws_client] 📌 最大允许线程数:7
+[2025-04-19 20:43:10,893] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/test
+[2025-04-19 20:43:14,532] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 58a0f72e-8957-4887-a24d-b9b4e9a0adbf
+[2025-04-19 20:43:15,550] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 2ba2dcb6-95a7-4b5a-bb18-164b63d5fa3b
+[2025-04-19 20:43:58,211] [INFO] [ws_client] 📌 最大允许线程数:7
+[2025-04-19 20:43:58,231] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/test
+[2025-04-19 20:44:01,206] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - c742cca0-6104-4e5f-bc1f-be84a7b3cbc3
+[2025-04-19 20:45:15,163] [INFO] [ws_client] 📌 最大允许线程数:7
+[2025-04-19 20:45:15,214] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/test
+[2025-04-19 20:45:25,463] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - faa2fb35-8fc9-487b-9c57-c44e677e055a
+[2025-04-19 20:45:52,360] [INFO] [ws_client] 📌 最大允许线程数:7
+[2025-04-19 20:45:52,390] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/test
+[2025-04-19 20:45:56,460] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 09ea893f-399a-4f6f-8a17-1d29d65faf1c
+[2025-04-19 20:46:25,706] [ERROR] [ws_client] ❌ 任务执行异常: Browser.close: Connection closed while reading from the driver
+[2025-04-19 20:46:28,329] [INFO] [ws_client] 📌 最大允许线程数:6
+[2025-04-19 20:46:28,362] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/test
+[2025-04-19 20:46:31,688] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - d65d4be2-5b41-4add-ab23-e543efef1dd3
+[2025-04-19 20:51:19,035] [WARNING] [ws_client] ❌ 连接断开: received 1011 (internal error) keepalive ping timeout; then sent 1011 (internal error) keepalive ping timeout
+[2025-04-19 20:51:19,083] [ERROR] [ws_client] ❌ 任务执行异常: Browser.close: Connection closed while reading from the driver
+[2025-04-19 20:51:21,716] [INFO] [ws_client] 📌 最大允许线程数:5
+[2025-04-19 20:51:21,739] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/test
+[2025-04-19 20:51:25,089] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - a6ebdacd-e590-4ec0-b83e-1a2bbec54227
+[2025-04-19 20:51:45,426] [INFO] [ws_client] 📌 最大允许线程数:6
+[2025-04-19 20:51:45,452] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/test
+[2025-04-19 20:52:10,639] [INFO] [ws_client] 📌 最大允许线程数:6
+[2025-04-19 20:52:10,668] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/test
+[2025-04-19 20:52:29,196] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 1dbe4304-9bb0-43ab-835e-367648d7c6ce
+[2025-04-19 20:52:50,011] [INFO] [ws_client] 📌 最大允许线程数:6
+[2025-04-19 20:52:50,037] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/test
+[2025-04-19 20:52:52,380] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 8a6ac9a0-b6ff-4dc6-a3b9-444ba25dcf85
+[2025-04-19 20:53:39,073] [INFO] [ws_client] 📌 最大允许线程数:6
+[2025-04-19 20:53:39,100] [INFO] [ws_client] ✅ 已注册: ws://127.0.0.1:8000/worker/test
+[2025-04-19 20:53:41,755] [INFO] [ws_client] 📥 接收到任务: HcaptchaCracker - 34dba840-34ab-458c-836d-60cedc28d321

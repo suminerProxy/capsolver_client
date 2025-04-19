@@ -1,0 +1,64 @@
+{
+  "key": "E0_eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRhIjoicEovbndFU3JLclY3dzNrQnErSVB3Y1FrSzZCV1JycDJJakdnQVZqaWt1Tm9iRWZCNDJXU1ZnN05nYlFya3o0K0tkOHJBMk1VS29sWitvYlJjNzB2cjN2TnlUdjJUbmdrbW9waE1QL2NjUGNBMTRXNVFiUUlMaUVGL3Y5L1BqTGh5VUloazRkWmJZRjV6M25SUU1MeHpyYk1KemdrZm5CSHFuclJPS0RjbnEyWlpWVTMvTkJvaEFJZS8wZnBxV1BRWm1JaFdKRzlRRkkvNmRxUU5aZmxZZVVRRm9idHBWNVZpVlNLbHBwRkR2SlZReDk5MkhNcVNYNFMyWHdqUFdhZUhDcXo4ZlhOSjJMY1ZVb09VUT09MXNuZENiNXUySkNvcXFkWSIsImV4cCI6MTc0NTA2NjQxMCwia3IiOiIxODU3YjIzIn0.ft-UjLG4wO8sKb6gkEmMw7NjHkXxdUxphWVatvYMyHA",
+  "request_config": {
+    "version": 0,
+    "shape_type": null,
+    "min_points": null,
+    "max_points": null,
+    "min_shapes_per_image": null,
+    "max_shapes_per_image": null,
+    "restrict_to_coords": null,
+    "minimum_selection_area_per_shape": null,
+    "multiple_choice_max_choices": 1,
+    "multiple_choice_min_choices": 1,
+    "overlap_threshold": null,
+    "answer_type": "str",
+    "max_value": null,
+    "min_value": null,
+    "max_length": null,
+    "min_length": null,
+    "sig_figs": null,
+    "keep_answers_order": null,
+    "ignore_case": false,
+    "new_translation": true
+  },
+  "request_type": "image_drag_drop",
+  "requester_question": {
+    "en": "Please click, hold, and drag the element on the right to the shape that is most similar"
+  },
+  "requester_restricted_answer_set": {
+    "default": {
+      "en": "default"
+    }
+  },
+  "requester_question_example": null,
+  "tasklist": [
+    {
+      "datapoint_uri": "https://imgs3.hcaptcha.com/tip/90ef6cfd375cc21a9e6fd182fccf03a768394374594cb0bebef1557d25586ed8/dcbaa9f8a1a4f29db4cf7797ce0a3e0614f1280f59d87c054ee2d4378431da0f.jpg",
+      "task_key": "cb98ac3e-5e41-4c2e-aa30-e438399bb861",
+      "entities": [
+        {
+          "entity_id": "387a1559-b764-42d5-bee0-4f34e8c58ee7",
+          "entity_uri": "https://imgs3.hcaptcha.com/tip/ca5f0361445c7810fb7e2fe63a14673c9b534f77bcab1070a9751d1cd22ca354/23316bcdc7ef6de239b9e771d78b5ba6d948ac90f77d29b96f384de57a54a561.png",
+          "coords": [
+            420,
+            68
+          ],
+          "size": [
+            98,
+            98
+          ],
+          "metadata": {
+            "original_uri": "s3://fantasia-assets.hcaptcha.com/d-and-d-dragshapetosimilar-2-square_5_trianglepeanutas_5483/082b6cc0-ed3b-46bc-8970-44bda81aacd3.png"
+          }
+        }
+      ]
+    }
+  ],
+  "oby": "v2:QqcV7NjnsFpMxx9VCqihL2IxYzQzYzFlDrK/bgz7/G7/okPPpCX/Y3lIli7xET2To60/JScbzYauqYLSDaTmNAGJW+TTgVvrSYIpfSqGadaaH9QpVKTMDED/MPdEAxsdX4+Snlga3/L/M+RZi22OLEOhPGWehkR+V/engncuVAC3Mt01m/kqAKnLowuH97tgSuXP+hmpfCA=",
+  "normalized": true,
+  "c": {
+    "req": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmIjowLCJzIjoyLCJ0IjoidyIsImQiOiJwODkyZm5ZR3U4WkQxcGp6NWQ5ZlJncWhabWpvS3lmLzZwa0dxQ084QTdsSlBEbk5mWGUzYjRWdW9pMU52WTJDQ2U1dEdFNFE4czZkRUhUdDhxMjdRM2xJVmYvRFordlF5QUdidWplNU5lTS8yNFVTRVdEb29YcHdaN3NyOUQvMXdYY1lGVjZrcmt6MW03ZzNSVlY3STB1dTRobStHcytXQ0lIVU04V25QMVBKS1VkZXNRb1QrdmFSQXV3a3Q5bjNORzZ2dzNTMVhqOG96WDJzMUVrNWZBNStCWUFVeUptK2I2ZjVBYk1MQWRqQ3NjWXU1N2dFcGxSeUpJM1V3Zz09RXhqcTBETVY4OFRoMDczYyIsImwiOiIvYy83ZTRhYTkwMzI5ZmU3ZDQ1N2M2OTM2OWJiNmNiY2I5MTRmNTI0ZjQwYjhjMDcyMGZiMzZiNTE3YTFkYTlkNmU4IiwiaSI6InNoYTI1Ni1QTkFhZzNQTjlpUmd2QUlxa1hicnNncEZyQnJ0dXFISXdWNFd3a0pQODU4PSIsImUiOjE3NDUwNjgxMjEsIm4iOiJoc3ciLCJjIjoxMDAwfQ.1hI1wkfhqKEmevVSFFvOl5yvCpb7D-RE63eyzjWzzA0",
+    "type": "hsw"
+  }
+}

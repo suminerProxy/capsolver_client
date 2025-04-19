@@ -1,0 +1,21 @@
+# 并发数设置（可选，不填则自动根据系统资源计算）
+concurrency: null
+
+# Camoufox 参数配置
+camoufox:
+  # 当前设备支持的打码类型，支持的类型server端才会分配任务
+  solver_type:
+    - HcaptchaCracker
+  # 无头模式，默认打开即可
+  headless: "false"
+
+worker:
+  # 当前设备名称
+  name: "test"
+  # 后端api地址，替换ip和port即可;如果没有配置ssl，协议头改成ws；切记不能用127.0.0.1和localhost
+  wss_url: "ws://127.0.0.1:8000/worker/"
+hcaptchaCracker:
+  CHALLENGE_CLASSIFIER_MODEL: gemini-2.0-flash
+  IMAGE_CLASSIFIER_MODEL: gemini-2.0-flash-thinking-exp-01-21
+  SPATIAL_POINT_REASONER_MODEL: gemini-2.0-flash-thinking-exp-01-21
+  SPATIAL_PATH_REASONER_MODEL: gemini-2.0-flash-thinking-exp-01-21
